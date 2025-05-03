@@ -1,0 +1,17 @@
+
+---
+
+### ✅ Final Steps to Upload
+
+1. Create a folder on your computer: `Subtitle-Translator`
+2. Place these 3 files inside: `str.py`, `README.md`, `requirements.txt`
+3. Open GitHub → New Repository → name it `Subtitle-Translator`
+4. In terminal:
+
+```bash
+cd Subtitle-Translator
+git init
+git add .
+git commit -m "Initial commit: subtitle translator"
+git remote add origin https://github.com/YOUR_USERNAME/Subtitle-Translator.git
+git push -u origin main
