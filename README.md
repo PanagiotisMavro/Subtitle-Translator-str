@@ -4,6 +4,8 @@
 
 ---
 
+![image alt](https://github.com/PanagiotisMavro/Subtitle-Translator-str/blob/c14632483980be613ea195f4ffb41d0da71844ba/Screenshot%202025-05-03%2003%3A42%3A46.png)
+
 ## 🛠 Features
 
 - ✅ Translate any `.srt` subtitles to another language
