@@ -26,6 +26,12 @@ python3 str2.py -f /home/user/video.srt -translation french
 
 ---
 
+## If Problem for pip? Can help you (Working) Linux
+
+ - sudo apt install python3-venv
+ - python3 -m venv ~/myenv
+ - source ~/myenv/bin/activate
+
 ## 📦 Requirements
 
 ```bash
