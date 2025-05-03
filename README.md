@@ -18,3 +18,11 @@
 
 ```bash
 pip install -r requirements.txt
+
+## 📄 Usage
+python3 str2.py -f <file.srt> -t <language>
+python3 str2.py -f <file.srt> -translation <language>
+
+## 🔍 Examples
+python3 str2.py -f movie.srt -t greek
+python3 str2.py -f /home/user/video.srt -translation french
