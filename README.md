@@ -16,6 +16,11 @@
 
 ---
 
+## Install
+- pip3 install -r requirements.txt
+
+---
+
 ## 📄 Usage
 - python3 str2.py -f <file.srt> -t <language>
 - python3 str2.py -f <file.srt> -translation <language>
